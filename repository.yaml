@@ -1,5 +1,5 @@
 {
-  "name:" "my HA addon repo",
-  "url:" "https://github.com/pelztier/addon-snapserver-spotify/",
-  "maintainer:" "Maurus"
+  "name": "my HA addon repo",
+  "url": "https://github.com/pelztier/addon-snapserver-spotify/",
+  "maintainer": "Maurus"
 }
