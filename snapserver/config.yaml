@@ -4,7 +4,7 @@ version: dev
 slug: snapcast-server-libspot
 description: Host a Snapcast server with librespot
 url: https://github.com/pelztier/addon-snapserver-spotify
-codenotary: Maurus
+codenotary: Maurus@maurus
 arch:
   - aarch64
   - amd64
